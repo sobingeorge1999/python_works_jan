@@ -1,0 +1,3 @@
+kiran,23,ece,34
+amal,2,cse,33
+sabi,44,civil,22
